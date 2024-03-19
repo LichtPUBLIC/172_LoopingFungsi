@@ -19,5 +19,5 @@ void display() {
 int main()
 {
     inputdata();
-    display() 
+    display();
 }
