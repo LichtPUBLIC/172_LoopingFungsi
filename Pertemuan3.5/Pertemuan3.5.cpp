@@ -12,4 +12,8 @@ int hitungluas() {
     return sisi * sisi;
 }
 
+void display() {
+    cout << "Luas Persegi :" << hitungluas() << endl;
+}
+
 
